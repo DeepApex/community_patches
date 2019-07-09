@@ -1,7 +1,7 @@
 diff --git a/core/res/res/values/config.xml b/core/res/res/values/config.xml
 index 93ffd465..dbf443b9 100644
---- a/core/res/res/values/config.xml
-+++ b/core/res/res/values/config.xml
+--- a/frameworks/base/core/res/res/values/config.xml
++++ b/frameworks/base/core/res/res/values/config.xml
 @@ -216,7 +216,7 @@
           dozing).  This should be enabled if you have such services and expect apps to
           correctly use them when installed on your device.  Otherwise, keep this disabled
